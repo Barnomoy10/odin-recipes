@@ -16,3 +16,11 @@ h2 {
     text-decoration: underline;
     text-underline-position: auto;
 }
+
+img {
+    box-sizing: border-box;
+    height: auto;
+    width: 50%;
+    display: block;
+    margin: auto;
+}
